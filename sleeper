@@ -1,0 +1,7 @@
+   0 nano sleeper.sh
+   1 chmod 744 sleeper.sh
+   2 ./sleeper.sh
+   3 tree /tmp/
+   4 cat /tmp/newfile.txt
+   5 history
+   6 history > history.txt
